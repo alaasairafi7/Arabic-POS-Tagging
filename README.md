@@ -1,0 +1,2 @@
+We used two datasets in this project, the first one is ‘Kalimat.txt’ which is a dataset that we constructed by collection 9505 words that are considered forms of feminine plural nouns "جمع مؤنث سالم" as to be used in detecting this form in Arabic texts. 
+And to test out this method we constructed our second dataset which is ‘Moanath 2.txt’ that consists of 180 grammatical correct Arabic sentences, where half of this sentences contains feminine plural nouns "جمع مؤنث سالم" form,  and the other half does not.
